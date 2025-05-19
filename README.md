@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/MrYinka/my-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://MrYinka.github.io/my-manuscript/>.
-The permalink for this webpage version is <https://MrYinka.github.io/my-manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/>.
+The permalink for this webpage version is <https://MrYinka.github.io/my-manuscript/v/497c9968497c518a17b50f9bec1a5262a53be584/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://MrYinka.github.io/my-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`ca748bf4e80a830d7bee69a20b1fae18e028d9e6`](https://github.com/MrYinka/my-manuscript/commit/ca748bf4e80a830d7bee69a20b1fae18e028d9e6).
+[`497c9968497c518a17b50f9bec1a5262a53be584`](https://github.com/MrYinka/my-manuscript/commit/497c9968497c518a17b50f9bec1a5262a53be584).
