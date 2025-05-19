@@ -1,0 +1,17 @@
+title: "Automating Scholarly Publishing with Manubot"
+authors:
+  - name: Olayinka Akinbolajo
+    orcid: 0000-0000-0000-0000  # Replace with your ORCID if available
+    github: MrYinka
+    affiliation: 1
+affiliations:
+  - id: 1
+    name: Department of Computer Science, Your University
+    address: City, Country
+keywords:
+  - Manubot
+  - Scholarly Publishing
+  - Open Science
+  - GitHub
+  - Markdown
+date: 2025-05-18
