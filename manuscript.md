@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-19" />
   <meta name="citation_publication_date" content="2025-05-19" />
   <meta property="article:published_time" content="2025-05-19" />
-  <meta name="dc.modified" content="2025-05-19T06:58:20+00:00" />
-  <meta property="article:modified_time" content="2025-05-19T06:58:20+00:00" />
+  <meta name="dc.modified" content="2025-05-19T07:10:09+00:00" />
+  <meta property="article:modified_time" content="2025-05-19T07:10:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://MrYinka.github.io/my-manuscript/" />
   <meta name="citation_pdf_url" content="https://MrYinka.github.io/my-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://MrYinka.github.io/my-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://MrYinka.github.io/my-manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_html_url_versioned" content="https://MrYinka.github.io/my-manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://MrYinka.github.io/my-manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://MrYinka.github.io/my-manuscript/v/497c9968497c518a17b50f9bec1a5262a53be584/" />
+  <meta name="manubot_html_url_versioned" content="https://MrYinka.github.io/my-manuscript/v/497c9968497c518a17b50f9bec1a5262a53be584/" />
+  <meta name="manubot_pdf_url_versioned" content="https://MrYinka.github.io/my-manuscript/v/497c9968497c518a17b50f9bec1a5262a53be584/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://MrYinka.github.io/my-manuscript/v/ca748bf4e80a830d7bee69a20b1fae18e028d9e6/))
+([permalink](https://MrYinka.github.io/my-manuscript/v/497c9968497c518a17b50f9bec1a5262a53be584/))
 was automatically generated
-from [MrYinka/my-manuscript@ca748bf](https://github.com/MrYinka/my-manuscript/tree/ca748bf4e80a830d7bee69a20b1fae18e028d9e6)
+from [MrYinka/my-manuscript@497c996](https://github.com/MrYinka/my-manuscript/tree/497c9968497c518a17b50f9bec1a5262a53be584)
 on May 19, 2025.
 </em></small>
 
